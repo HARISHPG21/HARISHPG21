@@ -13,8 +13,9 @@ Email Me 👉 ✉️ **harishpg21@gmail.com** For Collaboration/Project or Anyth
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harishpg21/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_pg21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishpg21-software-developer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarishPG21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishpg21@gmail.com)  
+<div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="image" />
-
+</div>
 <!-- Snake Game Repo View -->
 
 <div align="center">
