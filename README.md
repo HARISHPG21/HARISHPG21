@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **harishpg21@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** Machine Learning Projects,web development projects and open source project contributions
 - 🌱 **I’m currently learning:** Mern Stack,AI-ML,Dsa,Cybersecurity
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** harishpg21@gmail.com 
+- 📫  **How to reach me:** harishpg21@gmail.com 
 - 😄 **Pronouns:** He/Him 
 - 
 ## 🌐 Socials:
