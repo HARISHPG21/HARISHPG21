@@ -6,8 +6,8 @@ Email Me 👉 ✉️ **harishpg21@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** Machine Learning Projects,web development projects and open source project contributions
 - 🌱 **I’m currently learning:** Mern Stack,AI-ML,Dsa,Cybersecurity
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**harishpg21@gmail.com 
-- 😄 **Pronouns:**He/Him 
+- 📫 **How to reach me:** harishpg21@gmail.com 
+- 😄 **Pronouns:** He/Him 
 - 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harishpg21/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish_pg21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishpg21-software-developer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarishPG21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishpg21@gmail.com)  
